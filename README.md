@@ -1,4 +1,4 @@
-<h1 align="center">I am an experienced Artificial Intelligence and Natural Language Processing professional, skilled in developing and implementing algorithms and systems./h3>
+<h1 align="center">I am an experienced Artificial Intelligence and Natural Language Processing professional, skilled in developing and implementing algorithms and systems.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrith-am&label=Profile%20views&color=0e75b6&style=flat" alt="amrith-am" /> </p>
 
